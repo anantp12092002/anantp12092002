@@ -3,7 +3,8 @@ Hi there 👋
 - 👋  I’m Anant
 - 👀 I'm intrested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning more about react js
-- 💞️ I’m looking to collaborate on some projects
+- 💞️ I’m looking to collaborate on some projects  
+
 My Links to various coding platform are  
 
 [LeetCode](https://leetcode.com/anantkp1209)  
