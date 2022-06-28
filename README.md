@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @anantp12092002
-- 👀 I’m interested in coding,DSA and web development
+Hi there 👋
+
+- 👋  I’m Anant
+- 👀 I'm intrested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning more about react js
 - 💞️ I’m looking to collaborate on some projects
+My Links to various coding platform are  
 
-LeetCode :-   https://leetcode.com/anantkp1209/
-CodeForces:-  https://codeforces.com/profile/anantkp.ec.19
-CodeChef:-    https://www.codechef.com/users/anantpandey
+LeetCode :-   https://leetcode.com/anantkp1209/  
+
+CodeForces:-  https://codeforces.com/profile/anantkp.ec.19 
+
+CodeChef:-    https://www.codechef.com/users/anantpandey  
+
 GFG:-         https://auth.geeksforgeeks.org/user/anantkp1923
 
 <!---
